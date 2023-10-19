@@ -24,3 +24,6 @@ app.get('/logged', (req, res) => {
 //listen on port 8080
 
 app.listen (port, () => console.info ('listening on port ${port}'));
+
+
+console.log('Hello, world')

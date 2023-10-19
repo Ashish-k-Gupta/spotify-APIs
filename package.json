@@ -1,0 +1,12 @@
+{
+  "name": "spotify_api",
+  "version": "1.0.0",
+  "description": "Build some small web application using spotify APIs",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashish Gupta",
+  "license": "ISC"
+}
