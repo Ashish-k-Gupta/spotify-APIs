@@ -16,7 +16,7 @@ cover.classList.add("hide");
 
 function authorize(){
     let url = AUTHORIZE;
-    url += '?client_id' + client_id;
+    url += '?client_id=' + client_id;
     url += "&response_type=code"
     url += "&redirect_uri=" + encodeURI(redirect);
     url += "&show_dialog=true";
